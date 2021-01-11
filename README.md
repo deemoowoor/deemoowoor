@@ -3,7 +3,7 @@
 - 💻 I work at ✨ [@finceptiv](https://github.com/finceptiv) ✨ 
 - 🌱 I’m currently learning AWS, Go and Rust
 - 📫 How to reach me: andrei.sosnin+github-profile@gmail.com
-- ⚡ Fun fact: 
+- ⚡ Fun fact: It's only the second time, when you jump with a parachute, that it feels the scariest.
 - 💬 Ask me about Python, C#, React.js
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=deemoowoor&hide=contribs,prs&count_private=true)
